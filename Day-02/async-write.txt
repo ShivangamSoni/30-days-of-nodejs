@@ -1,0 +1,6 @@
+This string is written into this file using Node.JS fs module
+
+This String will be Appended below the Existing File Contents
+
+
+This String will be Appended below the Existing File Contents
